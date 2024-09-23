@@ -1,0 +1,37 @@
+Titre : Me retrouver (Recover myself)
+
+Pitch : Le joueur contrôle un personnage qui doit reconstruire son histoire en reliant des objets, des articles et des photos, tout en surmontant ses crises de panique.
+
+Genre : Narratif / Puzzle
+
+Nombre de joueurs : Jeu solo
+
+Public cible : jeunes adultes, joueurs occasionnels
+
+Plateforme : PC
+
+Marché cible : Europe / Amérique du nord
+
+Technologies : Unity (/ Détection de voix ?)
+
+Intentions de réalisation : Sensibilisation aux problèmes de gestion des angoisses et des crises de panique / Proposer une expérience narrative très influencée par le joueur
+
+Unique Selling Points : Gestion de crises de panique de différentes manières / Création de la narration par le joueur
+
+Synopsis : Vous êtes réveillé par la sonnette, c'est l'angoisse. Un carton a été laissé devant votre porte, de la part de votre mère. Il est plein à craquer de vos souvenirs et de vieilles affaires que vous allez devoir réorganiser pour construire votre histoire. Mais réussirez-vous à surmonter les crises de panique que provoque cette exhumation du passé ?
+
+Conditions de victoire et de défaite :
+	Victoire : finir de reconstruire l'histoire du personnage
+	Défaite : pas de réelle défaite ? juste subir des phases de panique plus violentes ?
+
+Core Gameplay :
+	(ajouter description)
+
+Gameplays secondaires :
+	(ajouter description)
+
+Boucle de jeu :
+	(ajouter le flowchart)
+
+Visuels :
+	(ajouter les croquis)
