@@ -1,3 +1,5 @@
+Fiche descriptive :
+
 Titre : Me retrouver (Recover myself)
 
 Pitch : Le joueur contrôle un personnage qui doit reconstruire son histoire en reliant des objets, des articles et des photos, tout en surmontant ses crises de panique.
@@ -14,17 +16,27 @@ Marché cible : Europe / Amérique du nord
 
 Technologies : Unity
 
-Intentions de réalisation : Sensibilisation aux problèmes de gestion des angoisses et des crises de panique / Proposer une expérience narrative très influencée par le joueur
-
 Unique Selling Points : Gestion de crises de panique de différentes manières / Narration modulable par le joueur
+
+-------------------------------------
+Etude de marché : (est-ce qu'on garde cette partie ?)
+
+Concurrence :
+Psychonauts
+Adventures with Anxiety
+
+--------------------------------------------
+Le jeu :
+
 
 Synopsis : Vous êtes réveillé par la sonnette, c'est l'angoisse. Un carton a été laissé devant votre porte, de la part de votre mère. Il est plein à craquer de vos souvenirs et de vieilles affaires que vous allez devoir réorganiser pour construire votre histoire. Mais réussirez-vous à surmonter les crises de panique que provoque cette exhumation du passé ?
 
-Conditions de victoire et de défaite :
-	Victoire : finir de reconstruire l'histoire du personnage
-	Défaite : pas de réelle défaite ? juste subir des phases de panique plus violentes ?
+Intentions de réalisation : Sensibilisation aux problèmes de gestion des angoisses et des crises de panique / Proposer une expérience narrative très influencée par le joueur
 
-Contrôleur : Clavier / souris
+Les 3C :
+	- Camera : alternance entre Vue à la première personne / Vue à la troisième personne
+	- Character : Être humain qui marche dans son appartement, ramasse des objets et les relie entre eux sur un tableau de liège pour construire l'histoire. Il subit des phases de crise de panique à intervalles irréguliers.
+	- Controls : mouvement au clavier avec ZQSD / interaction avec l'environnement par les clics de la souris
 
 Core Gameplay :
 	Le gameplay principal est de rechercher des objets ou des indices afin de recréer des événements du passé du personnage. Si la connexion crée est mineure, le joueur reprend la recherche d'objets et d'indices. Si la connexion est majeure, l'histoire est modifiée en conséquences. Après la reconstitution de souvenir, une jauge de stress peut augmenter en fonction du souvenir retrouver. Si la jauge est trop haute une phase de stress peut se lancer. 
@@ -37,13 +49,24 @@ Le troisième type de gestion est l'ancrage rythmique. Pour cela, le joueur doit
 Le quatrième type de gestion est l'ancrage sensoriel. Pour cela, le joueur passe en troisième personne et cherche des objets dans la scène. (Beyond Two Souls)
 A la fin de ces phases, si le joueur a réussi le jeu reprend. Si le joueur perd, le jeu reprend mais la prochaine phase de stress sera plus compliquer.
 
+Conditions de victoire et de défaite :
+	Victoire : finir de reconstruire l'histoire du personnage
+	Défaite : pas de réelle défaite ? juste subir des phases de panique plus violentes ?
+
+Storyboard, wireframes et/ou mockups : 
+	(à produire et ajouter)
+
 Boucle de jeu :
 	(ajouter le flowchart)
 
-Visuels :
-	(ajouter les croquis)
+-------------------------------------
+Look & Feel :
 
-Concurrence :
-Psychonauts
-Adventures with Anxiety
+Direction artistique :
+	(petit paragraphe à rédiger)
+
+Cahier de tendance :
+
+1 ou 2 écrans du jeu (ou croquis) :
+	
 
