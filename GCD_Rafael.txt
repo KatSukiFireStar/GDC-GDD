@@ -29,29 +29,32 @@ Adventures with Anxiety
 Le jeu :
 
 
-Synopsis : Vous êtes réveillé par la sonnette, c'est l'angoisse. Un carton a été laissé devant votre porte, de la part de votre mère. Il est plein à craquer de vos souvenirs et de vieilles affaires que vous allez devoir réorganiser pour construire votre histoire. Mais réussirez-vous à surmonter les crises de panique que provoque cette exhumation du passé ?
+Synopsis : Vous êtes réveillé par la sonnette, c'est l'angoisse. Un carton a été laissé devant votre porte, de la part de votre mère.
+Il est plein à craquer de vos souvenirs et de vieilles affaires qui vous ramènent plusieurs années en arrière, qui vous ramènent à ce "moment".
+Vous allez devoir faire des liens entre ces éléments et ce que contient votre appartement pour reconstruire votre histoire : l'accident, votre rôle, les conséquences.
+Mais réussirez-vous à surmonter les crises de panique que provoque cette exhumation du passé ? Chaque pas en avant vous ramène en arrière et vos démons reviennent vous hanter.
 
 Intentions de réalisation : Sensibilisation aux problèmes de gestion des angoisses et des crises de panique / Proposer une expérience narrative très influencée par le joueur
 
 Les 3C :
 	- Camera : alternance entre Vue à la première personne / Vue à la troisième personne
 	- Character : Être humain qui marche dans son appartement, ramasse des objets et les relie entre eux sur un tableau de liège pour construire l'histoire. Il subit des phases de crise de panique à intervalles irréguliers.
-	- Controls : mouvement au clavier avec ZQSD / interaction avec l'environnement par les clics de la souris
+	- Contrôles : mouvement au clavier avec ZQSD / interaction avec l'environnement par les clics de la souris
 
 Core Gameplay :
-	Le gameplay principal est de rechercher des objets ou des indices afin de recréer des événements du passé du personnage. Si la connexion crée est mineure, le joueur reprend la recherche d'objets et d'indices. Si la connexion est majeure, l'histoire est modifiée en conséquences. Après la reconstitution de souvenir, une jauge de stress peut augmenter en fonction du souvenir retrouver. Si la jauge est trop haute une phase de stress peut se lancer. 
+	Le gameplay principal se centre sur la recherche d’objets et d’indices à accrocher sur un grand tableau de liège. Si la connexion créée est mineure, le joueur reprend la recherche d'objets et d'indices. Si la connexion est majeure, l'histoire est modifiée en conséquence. Après la reconstitution d’un souvenir, une jauge de stress, dont le joueur n’a pas connaissance, augmente. Si la jauge atteint un stade critique, une phase de panique se lance. 
 
 Gameplays secondaires :
-	Le gameplay secondaire est de gérer les phases de stress du personnages. Pour cela, le joueur va avoir différents gameplay qui pourront se lancer. Il y a quatre genres de gestion différentes baser sur différentes façon de diminuer le stress.
-Le premier type de gestion est de calmer la respiration. Pour cela, le joueur aurait une scènes de QTE baser sur le rythme du cœur. (Man of Medan)
-Le second type de gestion est l'aide émotionnelle. Pour cela, le joueur à plusieurs choix de réponses afin d'essayer de calmer le personnage. (Nier Replicant - Foret des légendes)
-Le troisième type de gestion est l'ancrage rythmique. Pour cela, le joueur doit réussir un jeu de rythme. (Osu / Final Fantasy Theatrhythm)
-Le quatrième type de gestion est l'ancrage sensoriel. Pour cela, le joueur passe en troisième personne et cherche des objets dans la scène. (Beyond Two Souls)
-A la fin de ces phases, si le joueur a réussi le jeu reprend. Si le joueur perd, le jeu reprend mais la prochaine phase de stress sera plus compliquer.
+	Les gameplays secondaires concernent la gestion des phases de panique du personnage. Le joueur est expulsé du personnage, il passe d’une vue à la première personne à une vue à la troisième personne. Ils se déclinent en quatre types qui se fondent sur des techniques pour se calmer en cas de crise de panique.
+•	Le premier type vise à calmer la respiration. Pour cela, le joueur aura une scène en QTE liée au rythme cardiaque. S’il réussit, le rythme diminue, s’il échoue le rythme augmente de plus en plus. (Inspiration : Man of Medan)
+•	Le second type se fonde sur l'aide émotionnelle. Le joueur à plusieurs choix de réponses afin de calmer le personnage. En parallèle, les pensées du personnage remplissent de plus en plus l’écran. Si le joueur trouve les bonnes réponses, les pensées sont moins intrusives, sinon elles occupent de plus en plus d’espace. (Inspiration : Nier Replicant - Foret des légendes)
+•	Le troisième type est l'ancrage rythmique. Le joueur doit réussir un jeu de rythme. (Inspiration : Osu / Final Fantasy Theatrhythm)
+•	Le quatrième type est l'ancrage sensoriel. Le joueur doit rechercher des objets dans la scène pour stimuler les sens du personnage et le sortir de son état panique. (Inspiration : Beyond Two Souls)
+A la fin de ces phases, si le joueur a réussi, le jeu reprend normalement. Si le joueur perd, le jeu reprend également mais diminue le niveau maximum de la jauge de stress. Les crises deviennent donc plus fréquentes.
 
 Conditions de victoire et de défaite :
-	Victoire : finir de reconstruire l'histoire du personnage
-	Défaite : pas de réelle défaite ? juste subir des phases de panique plus violentes ?
+	Victoire : Finir de reconstruire l'histoire du personnage
+	Défaite : Les défaites lors des phases de panique rendent les crises plus fréquentes.
 
 Storyboard, wireframes et/ou mockups : 
 	(à produire et ajouter)
