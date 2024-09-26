@@ -42,7 +42,8 @@ Les 3C :
 	- Contrôles : mouvement au clavier avec ZQSD / interaction avec l'environnement par les clics de la souris
 
 Core Gameplay :
-	Le gameplay principal se centre sur la recherche d’objets et d’indices à accrocher sur un grand tableau de liège. Si la connexion créée est mineure, le joueur reprend la recherche d'objets et d'indices. Si la connexion est majeure, l'histoire est modifiée en conséquence. Après la reconstitution d’un souvenir, une jauge de stress, dont le joueur n’a pas connaissance, augmente. Si la jauge atteint un stade critique, une phase de panique se lance. 
+	Le gameplay principal se centre sur la recherche d’objets et d’indices à accrocher sur un grand tableau de liège. Si la connexion créée est mineure, le joueur reprend la recherche d'objets et d'indices. Si la connexion est majeure, l'histoire est modifiée en conséquence. 
+Après la reconstitution d’un souvenir, une jauge de stress, dont le joueur n’a pas connaissance, augmente. Si la jauge atteint un stade critique, une phase de panique se lance. 
 
 Gameplays secondaires :
 	Les gameplays secondaires concernent la gestion des phases de panique du personnage. Le joueur est expulsé du personnage, il passe d’une vue à la première personne à une vue à la troisième personne. Ils se déclinent en quatre types qui se fondent sur des techniques pour se calmer en cas de crise de panique.
